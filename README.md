@@ -25,5 +25,5 @@ Get your token from your Harvest account. https://id.getharvest.com/developers
 - `ELGENTOS_AUTHORIZATION` (optional, secure your endpoint)
 
 ## Special shoutout
-Special shoutout to @woutersteen because I removed the original script from Heroko and needed to recreate this awesomeness again. Cheers Wouter!
+Special shoutout to [@woutersteen](https://github.com/woutersteen) because I removed the original script from Heroko and needed to recreate this awesomeness again. Cheers Wouter!
 
