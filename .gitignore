@@ -94,6 +94,3 @@ Thumbs.db
 *.tmp
 *.temp
 
-# Test scripts with sensitive data
-test-api.sh
-
